@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971511312576",
+    "project_id": "cloudmsg-75d6a",
+    "storage_bucket": "cloudmsg-75d6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971511312576:android:b64c1ef4f71541d9c7bd25",
+        "android_client_info": {
+          "package_name": "com.example.cloudmsg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5eUSewgaedEKG0ql_UnT9BB6dqjWvYck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
